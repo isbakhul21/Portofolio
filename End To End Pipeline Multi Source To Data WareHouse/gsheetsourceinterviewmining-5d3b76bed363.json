@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "gsheetsourceinterviewmining",
+  "private_key_id": "5d3b76bed3634a1c6c83167863bf9198e55f2382",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQCj+F1S3h11pQeY\nXQZHHOkKLFYyKU9xE+38P8GtKrjNJDeErvRY+M6Vz8miRb0fh0w+Wx/YxWIeScnS\nUFDzTTqlN2I0D/qn90A1eP3jmgRdC+SwQCYHFqGlFKTjTCQJyVXjnysmCotZoopa\n8X5IavoXv7xq13lUZgnnoqxToJDPDFwGki72FX3hrL8DaR3vePrpY4BG4Sz+/eiz\nX6fgvR3mgE0hQc7XDaGt5dmZeM0my4kjrjS2hPvwyaWQAgdNe7tLrCuFlLAvL0L0\nmJcq54j/7uZZ59BNtby7pUhTaseGL03HdPcDSleQlSzV1OeHVQ2QXpMC8H2iiHNL\nqLbiGHNlAgMBAAECggEABkDENFMOngwpVjzj7qXSWEY5EkgjhK0tI/O9e9BXhFE3\ngcqXPGZeoHVwW80biX6EIJOiiwZ596w6M1hHQgQFssPCLbiXRz0FWJSw3/Nha7f2\npGcJ3DbXer9nC1j9vdbM/PV2tIht6IDrlEzF01arC2lPMubdNGQAyDHarwS+SPsA\nx4/jlDwcPTVmDfpcmEsX5yIWAMsXQOmbxGET1QCx5BTYu6TIJry1hWhCj24Ym5gP\n+2JL1CSSUno9iotnP76zHF9q/G2Kltsdb0mmg+V+dytc18x/78ueoE/MHmfSw2vc\nUciyp15dVgXh/zHac+z9A5R64BDEwfAC0gihIBdoOQKBgQDY3YYE5w9pto/3F3ax\nzhd4rH9I/JMR/aRGkf1hEhGJ2HgxMNe4xoPga2lYMFYD+3OieYZ/uLw1RX1cCAD8\n6qp5edkIOxR0Bvedg/cCSBBu2/NP5pPCBMtCkMiyDbhJ9AxJWzyTg24fAvh+JLql\nbJR05vx2xsw6/slES7jNpuuwqQKBgQDBj0GRRURb/auX+JsRLn+T4krqGG/0PCJG\n1xynPNTrhyhECq+1eHFZloCA7ibagwhA3EQ2UP5tf4cu2C/5mQi89aWfMmAsIyBJ\nspZ88CfBPVOMf4ihPiEbPy0n6HCix4QfX3C00pjGYUnQW6O0hEMS2sFmq/s0JnJO\n+qrHlezWXQKBgQC2d71Zxqg7RDZhqsZd2I/7Ivh+CrYb/xQHpLJSyIclOpP2n6gC\nelVfsECUySa2dw3WePXn5SHGmM9fbgSWyUPirdkkicEt1ublC7H7o3LgNATHB7Tv\nHGWBfpy+47hZ0RO9bRzM6VrwkOlQCctZgMBwlCF8NsyEHvhtlGDL+FR68QKBgQCT\nASg9Gqx2aUyfmRK8k+IVAPMApBqzFdC6mLmMUmkrkHUGaE9Wtejwr5tdUIJ1xrrH\n+AJedlkl9ItJCqw1FwNJ8A8fv3THUM4+6sHcldC7tMX1mQ6915/xP6QeAS06k+lG\noofI7YFWeaFD+7Vzblg6w6XLQqcAzopWbY6zEqzTiQKBgQCTPyKtHbDhOnBCVzyC\nrxximVd1dylfvqczO35pQBxYopn73i/NjG63lPPZ3NI48Kb4w5EmlR4qL6UOCy7a\nagKGKK7PQdhE6o4PL5rZV8FVSJ64e9pMoUlzhTaIx03XvpHZW+tIXJu1IMJhCKFq\nqCe1NKAyWWhMs+TVWIjB1/TqUA==\n-----END PRIVATE KEY-----\n",
+  "client_email": "accesgsheetapiinterviewmining@gsheetsourceinterviewmining.iam.gserviceaccount.com",
+  "client_id": "111785519832915193865",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/accesgsheetapiinterviewmining%40gsheetsourceinterviewmining.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
